@@ -103,8 +103,8 @@ repository if it is enabled.
 - Jörg Frochte:  
   https://joerg.frochte.de/
 
-- Hochschule Bochum / Bochum University of Applied Sciences:  
-  https://www.hochschule-bochum.de/
+- Bochum University of Applied Sciences:  
+  https://www.hochschule-bochum.de/en/
 
 ## Citation
 
